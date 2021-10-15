@@ -39,10 +39,10 @@ export default function Page() {
         </article>
         <article>
           <h2>Unser aktuelles Öko-Zertifikat</h2>
-          <a href={`${prefix}/oeko_zert.jpeg`}>
+          <a href={`${prefix}/Öko 007 Zertifikat Reginbrot 13.07.21-31.01.23.pdf`}>
             <img
               className="max-h-96"
-              src={`${prefix}/oeko_zert.jpeg`}
+              src={`${prefix}/Öko 007 Zertifikat Reginbrot niedrigere Quali.jpg`}
               alt="Aktuelles Öko-Zertifikat unserer Bäckerei"
             />
           </a>
