@@ -25,7 +25,7 @@ export default function Home() {
         <h2>Renovierungsarbeiten bis 1. November</h2>
   
         <p>
-          Wir renovieren vom 25.10-1.11. und haben ab dem 2.11. wieder wie gewohnt geöffnet.
+          Wir renovieren vom 25.10.-1.11. und haben ab dem 2.11. wieder wie gewohnt geöffnet.
         </p>
       </ContentContainer>
     </BaseLayout>
