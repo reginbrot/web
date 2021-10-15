@@ -29,10 +29,7 @@ export const Brotsorte = (props) => {
       </summary>
       {props.children}
       <small>
-        Alle nicht mit &ldquo; * &rdquo; gekennzeichneten Zutaten
-        landwirtschaftlichen Ursprungs unterliegen dem Kontrollverfahren gemäß
-        EG-Verordnung &ldquo;ökologischer Landbau&rdquo; VO (EG) Nr.834/2007
-        DE-ÖKO-007.
+        &ldquo; * &rdquo; aus kontrolliert biologischem Anbau gemäß EG-Verordnung &ldquo;ökologischer Landbau&rdquo; VO (EG) Nr.834/2007 DE-ÖKO-007
       </small>
     </details>
   )
