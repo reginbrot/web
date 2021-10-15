@@ -11,71 +11,70 @@ export default function Page() {
         <h2>Sorten</h2>
         <Brotsorte title={"HaferRoggenVollkornbrot"}>
           <small>
-            Hafervollkornmahlerzeugnisse 50%, Roggenvollkornmahlerzeugnisse 50%,
-            Wasser, Salz, Backferment (Weizenvollkornschrot, Maismehl,
-            Erbsenmehl, Blütenhonig)
+            Hafervollkornmahlerzeugnisse* 50%, Roggenvollkornmahlerzeugnisse* 50%,
+            Wasser, Salz, Backferment* (Weizenvollkornschrot*, Maismehl*,
+            Erbsenmehl*, Blütenhonig*)
           </small>
         </Brotsorte>
         <Brotsorte title={"RoggenVollkornbrot"}>
           <small>
-            Roggenvollkornmahlerzeugnisse 100%, Wasser, Salz, Backferment
-            (Weizenvollkornschrot, Maismehl, Erbsenmehl, Blütenhonig), Anis,
-            Koriander, Fenchel, Kümmel
+            Roggenvollkornmahlerzeugnisse* 100%, Wasser, Salz, Backferment*
+            (Weizenvollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*), Koriander*
           </small>
         </Brotsorte>
         <Brotsorte title={"DinkelRoggenWeizenVollkornbrot"}>
           <small>
-            Dinkelweizenvollkornmahlerzeugnisse 50%,
-            Roggenvollkornmahlerzeugnisse 25%, Weizenvollkornmahlerzeugnisse
-            25%, Wasser, Salz, Goldleinmehl, Flohsamenschalen, Backferment
-            (Weizenvollkornschrot, Maismehl, Erbsenmehl, Blütenhonig)
+            Dinkelweizenvollkornmahlerzeugnisse* 50%,
+            Roggenvollkornmahlerzeugnisse* 25%, Weizenvollkornmahlerzeugnisse*
+            25%, Wasser, Salz, Goldleinmehl*, Flohsamenschalen*, Backferment*
+            (Weizenvollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*)
           </small>
         </Brotsorte>
         <Brotsorte title={"SonnenblumenkernVollkornbrot"}>
           <small>
-            Weizenvollkornmahlerzeugnisse, Roggenvollkornmahlerzeugnisse,
-            Wasser, Sonnenblumenkerne 12%, Salz, Backferment
-            (Weizenvollkornschrot, Maismehl, Erbsenmehl, Blütenhonig)
+            Weizenvollkornmahlerzeugnisse*, Roggenvollkornmahlerzeugnisse*,
+            Wasser, Sonnenblumenkerne* 12%, Salz, Backferment*
+            (Weizenvollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*)
           </small>
         </Brotsorte>
         <Brotsorte title={"DinkelPurVollkornbrot"}>
           <small>
-            Dinkelweizenvollkornmahlerzeugnisse 100%, Wasser, Salz,
-            Goldleinmehl, Flohsamenschalen, Backferment (Weizenvollkornschrot,
-            Maismehl, Erbsenmehl, Blütenhonig)
+            Dinkelweizenvollkornmahlerzeugnisse* 100%, Wasser, Salz,
+            Goldleinmehl*, Flohsamenschalen*, Backferment* (Weizenvollkornschrot*,
+            Maismehl*, Erbsenmehl*, Blütenhonig*)
           </small>
         </Brotsorte>
         <Brotsorte title={"N°5 Bauernbrot"}>
           <small>
-            Weizenruchmehl, Wasser, Salz, Goldleinmehl, Flohsamenschalen, Hefe
+            Weizenruchmehl*, Wasser, Salz, Goldleinmehl*, Flohsamenschalen*, Hefe
           </small>
         </Brotsorte>
         <Brotsorte title={"RosinenVollkornbrot und -brötchen"}>
           <small>
-            Weizenvollkornmahlerzeugnisse, Wasser, Sultaninen 40%,
-            Vollrohrzucker, Rapsöl, Hefe, Salz, Zimt
+            Weizenvollkornmahlerzeugnisse*, Wasser, Sultaninen* 40%,
+            Vollrohrzucker*, Rapsöl*, Hefe, Salz, Zimt*
           </small>
         </Brotsorte>
         <Brotsorte title={"Baguette, Weißbrot und Bürle"}>
-          <small>Weizenmehl Type 550, Wasser, Salz, Hefe</small>
+          <small>Weizenmehl Type 550*, Wasser, Salz, Hefe</small>
         </Brotsorte>
         <Brotsorte title={"Fladenbrot"}>
           <small>
-            Weizenmehl Type 550, Wasser, Olivenöl, Sesam, Schwarzkümmel, Salz,
+            Weizenmehl Type 550*, Wasser, Olivenöl*, Sesam*, Schwarzkümmel*, Salz,
             Hefe
           </small>
         </Brotsorte>
         <Brotsorte title={"Brezel"}>
           <small>
-            Weizenmehl Type 550, Wasser, Rapsöl, Salz, Hefe, Brezellauge
-            (Natriumhydroxid), Gerstenmalzmehl, Säureregulator:
-            Acerolakirschsaftpulver
+            Weizenmehl Type 550*, Wasser, Rapsöl*, Salz, Hefe, Brezellauge
+            (Natriumhydroxid), Gerstenmalzmehl*, Säureregulator:
+            Acerolakirschsaftpulver*
           </small>
         </Brotsorte>
         <Brotsorte title={"Vollkornbrötchen"}>
           <small>
-            Weizenvollkornmahlerzeugnisse, Wasser, Hefe, Salz, Gerstenmalzmehl,
-            Säureregulator: Acerolakirschsaftpulver
+            Weizenvollkornmahlerzeugnisse*, Wasser, Hefe, Salz, Gerstenmalzmehl*,
+            Säureregulator: Acerolakirschsaftpulver*
           </small>
         </Brotsorte>
         <p>
