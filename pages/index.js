@@ -22,15 +22,10 @@ export default function Home() {
       </div>
 
       <ContentContainer classes={"rounded-lg p-8 bg-white"}>
-        <h2>Geöffnet fast wie immer</h2>
+        <h2>Renovierungsarbeiten bis 1. November</h2>
+  
         <p>
-          <strong>
-            Mo.-Fr. 9 - <span className="text-orange-dark">18:30</span> Uhr, Sa.
-            9 - <span className="text-orange-dark">15</span> Uhr
-          </strong>
-        </p>
-        <p>
-          Unsere Öffnungszeiten werden an dieser Stelle immer aktuell angezeigt.
+          Wir renovieren vom 25.10-1.11. und haben ab dem 2.11. wieder wie gewohnt geöffnet.
         </p>
       </ContentContainer>
     </BaseLayout>
