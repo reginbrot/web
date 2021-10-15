@@ -80,8 +80,8 @@ export default function Page() {
         </table>
         <h2>Haftungshinweis</h2>
         <p>
-          Haftungshinweis Trotz sorgfältiger inhaltlicher Kontrolle übernehmen
-          wir keine Haftung für die Inhalte externer Links. Für den Inhalt der
+          Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine
+          Haftung für die Inhalte externer Links. Für den Inhalt der
           verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
         </p>
         <h2>Datenschutzhinweis</h2>
