@@ -72,6 +72,10 @@ export default function Page() {
               <td>Ust. - Id Nr.</td>
               <td>DE 142 275 312</td>
             </tr>
+            <tr>
+              <td>Kontrollstelle</td>
+              <td>DE-ÖKO-007</td>
+            </tr>
           </tbody>
         </table>
         <h2>Haftungshinweis</h2>
