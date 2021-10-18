@@ -12,35 +12,35 @@ export default function Page() {
         <Brotsorte title={"HaferRoggenVollkornbrot"}>
           <small>
             <b>Hafer</b>vollkornmahlerzeugnisse* 50%, <b>Roggen</b>vollkornmahlerzeugnisse* 50%,
-            Wasser, Salz, <b>Backferment</b>* (Weizenvollkornschrot*, Maismehl*,
+            Wasser, Salz, <b>Backferment</b>* (<b>Weizen</b>vollkornschrot*, Maismehl*,
             Erbsenmehl*, Blütenhonig*)
           </small>
         </Brotsorte>
         <Brotsorte title={"RoggenVollkornbrot"}>
           <small>
             <b>Roggen</b>vollkornmahlerzeugnisse* 100%, Wasser, Salz, <b>Backferment</b>*
-            (Weizenvollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*), Koriander*
+            (<b>Weizen</b>vollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*), Koriander*
           </small>
         </Brotsorte>
         <Brotsorte title={"DinkelRoggenWeizenVollkornbrot"}>
           <small>
             <b>Dinkelweizen</b>vollkornmahlerzeugnisse* 50%,
-            <b>Roggen</b>vollkornmahlerzeugnisse* 25%, Weizenvollkornmahlerzeugnisse*
+            <b>Roggen</b>vollkornmahlerzeugnisse* 25%, <b>Weizen</b>vollkornmahlerzeugnisse*
             25%, Wasser, Salz, Goldleinmehl*, Flohsamenschalen*, <b>Backferment</b>*
-            (Weizenvollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*)
+            (<b>Weizen</b>vollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*)
           </small>
         </Brotsorte>
         <Brotsorte title={"SonnenblumenkernVollkornbrot"}>
           <small>
             <b>Weizen</b>vollkornmahlerzeugnisse*,  <b>Roggen</b>vollkornmahlerzeugnisse*,
             Wasser, Sonnenblumenkerne* 12%, Salz, <b>Backferment</b>*
-            (Weizenvollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*)
+            (<b>Weizen</b>vollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*)
           </small>
         </Brotsorte>
         <Brotsorte title={"DinkelPurVollkornbrot"}>
           <small>
             <b>Dinkelweizen</b>vollkornmahlerzeugnisse* 100%, Wasser, Salz,
-            Goldleinmehl*, Flohsamenschalen*, <b>Backferment</b>* (Weizenvollkornschrot*,
+            Goldleinmehl*, Flohsamenschalen*, <b>Backferment</b>* (<b>Weizen</b>vollkornschrot*,
             Maismehl*, Erbsenmehl*, Blütenhonig*)
           </small>
         </Brotsorte>
