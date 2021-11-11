@@ -64,13 +64,6 @@ export default function Page() {
             Hefe
           </small>
         </Brotsorte>
-        <Brotsorte title={"Brezel"}>
-          <small>
-            <b>Weizen</b>mehl Type 550*, Wasser, Rapsöl*, Salz, Hefe, Brezellauge
-            (Natriumhydroxid), <b>Gersten</b>malzmehl*, Säureregulator:
-            Acerolakirschsaftpulver*
-          </small>
-        </Brotsorte>
         <Brotsorte title={"Vollkornbrötchen"}>
           <small>
             <b>Weizen</b>vollkornmahlerzeugnisse*, Wasser, Hefe, Salz, <b>Gersten</b>malzmehl*,
