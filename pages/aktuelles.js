@@ -32,7 +32,7 @@ export default function Page() {
           <a href={`${prefix}/akzent_2021-11_schön+gut 14.pdf`}>
             <img
               className="max-h-96"
-              src={`${prefix}/akzent_2021-11_schön+gut 14.pdf`}
+              src={`${prefix}/akzent_2021-11_schön+gut 14 weniger.jpg`}
               alt="Reginbrot Bürle im Akzent"
             />
           </a>
