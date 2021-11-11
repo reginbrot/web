@@ -29,10 +29,10 @@ export default function Page() {
         </article>
         <article>
           <h2>Das Bürle im Akzent</h2>
-          <a href={`${prefix}/buerle_im_akzent.gif`}>
+          <a href={`${prefix}/akzent_2021-11_schön+gut 14.pdf`}>
             <img
               className="max-h-96"
-              src={`${prefix}/buerle_im_akzent.gif`}
+              src={`${prefix}/akzent_2021-11_schön+gut 14.pdf`}
               alt="Reginbrot Bürle im Akzent"
             />
           </a>
