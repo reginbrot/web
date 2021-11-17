@@ -19,6 +19,9 @@ export default function Page() {
               abgeschlossene Ausbildung im Lebensmittelhandwerk (Bäckerei,
               Konditorei, Metzgerei o.a.)
             </li>
+            <li>
+              Quereinstieg auch möglich
+            </li>
           </ul>
           <p>Was wir bieten:</p>
           <ul>
