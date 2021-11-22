@@ -30,7 +30,7 @@ export default function Page() {
             <li>frühester Arbeitsbeginn 4:00 Uhr</li>
           </ul>
         </article>
-<article>
+         <article>
           <h2>Bäcker*in (d/w/m) in Vollzeit</h2>
           <p>Wir möchten zum 1.2.2022 oder nach Absprache eine Stelle in der Produktion besetzen.</p>
           <p>Ihr Profil:</p>
@@ -50,7 +50,7 @@ export default function Page() {
             <li>frühester Arbeitsbeginn 6:00 Uhr</li>
           </ul>
         </article>
-      <article>
+        <article>
           <h2>Assistenz (d/w/m) der Geschäftsleitung in 50%-Teilzeit</h2>
           <p>Wir möchten diese Stelle zum 1.2.2022 oder nach Absprache besetzen.</p>
           <p>Ihr Profil:</p>
@@ -74,11 +74,9 @@ export default function Page() {
           <ul>
             <li>eine 50%-Stelle mit flexiblen Arbeitszeiten</li>
             <li>die Entlohnung orientiert sich auf Tarifvertrag des öffentlichen Dienstes
-              (je nach persönlichen Voraussetzungen bis E9a TV-ÖD)
-            </li>
+              (je nach persönlichen Voraussetzungen bis E9a TV-ÖD)</li>
             <li>eine gute Einarbeitung durch Ihre Vorgängerin wird durch gemeinsame
-              Arbeitszeiten im Februar angestrebt
-             </li>
+              Arbeitszeiten im Februar angestrebt</li>
              <li>spannende Aufgabenfelder zwischen Reiseplanung, Zuarbeit der Buchhaltung
              und Kommmunikation mit Lieferanten und Kund*innen bis hin zur Konzeption
              der Außendarstellung unseres Betriebs.
