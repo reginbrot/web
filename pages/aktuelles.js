@@ -65,7 +65,7 @@ export default function Page() {
             <li>
               Sie arbeiten sorgfältig und können sich schnell in neue Aufgabenfelder einarbeiten
             </li>
-             li>
+             <li>
               Sie interessieren sich für Bio-Lebensmittel und die Abläufe
               in unserer Bäckerei
             </li>
