@@ -8,7 +8,7 @@ export default function Page() {
       <ContentContainer>
         <h1>Neuigkeiten und Stellenangebote</h1>
         <article>
-          <h2>Schichtführung (d/w/m) in der Bäckerei in Vollzeit</h2>
+          <h2>Schichtführung (d/w/m) in der Produktion in Vollzeit</h2>
           <p>Wir möchten zum 1.3.2022 oder nach Absprache eine Stelle in der Produktion besetzen.</p>
           <p>Ihr Profil:</p>
           <ul>
@@ -47,7 +47,7 @@ export default function Page() {
           <ul>
             <li>übertarifliche Bezahlung</li>
             <li>ein Arbeitsplatz in der Konstanzer Innenstadt</li>
-            <li>frühester Arbeitsbeginn 6:00 Uhr</li>
+            <li>frühester Arbeitsbeginn 4:00 Uhr</li>
           </ul>
         </article>
         <article>
@@ -73,7 +73,7 @@ export default function Page() {
           <p>Unser Angebot:</p>
           <ul>
             <li>eine 50%-Stelle mit flexiblen Arbeitszeiten</li>
-            <li>die Entlohnung orientiert sich auf Tarifvertrag des öffentlichen Dienstes
+            <li>die Entlohnung orientiert sich am Tarifvertrag des öffentlichen Dienstes
               (je nach persönlichen Voraussetzungen bis E9a TV-ÖD)</li>
             <li>eine gute Einarbeitung durch Ihre Vorgängerin wird durch gemeinsame
               Arbeitszeiten im Februar angestrebt</li>
