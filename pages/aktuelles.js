@@ -8,26 +8,81 @@ export default function Page() {
       <ContentContainer>
         <h1>Neuigkeiten und Stellenangebote</h1>
         <article>
-          <h2>Lebensmittelhandwerker (d/w/m)</h2>
-          <p>Wir möchten demnächst eine Stelle in der Produktion besetzen.</p>
-          <p>Was Sie mitbringen sollten:</p>
+          <h2>Schichtführung (d/w/m) in der Bäckerei in Vollzeit</h2>
+          <p>Wir möchten zum 1.3.2022 oder nach Absprache eine Stelle in der Produktion besetzen.</p>
+          <p>Ihr Profil:</p>
           <ul>
             <li>
-              Deutschkenntnisse auf C1-Level oder höher in Sprache und Schrift
+              Sie verfügen über Deutschkenntnisse auf C1-Level oder höher in Sprache und Schrift
             </li>
             <li>
-              abgeschlossene Ausbildung im Lebensmittelhandwerk (Bäckerei,
-              Konditorei, Metzgerei o.a.)
+              Sie können eine abgeschlossene Ausbildung im Lebensmittelhandwerk (Bäckerei,
+              Konditorei, Metzgerei o.a.) vorweisen
             </li>
             <li>
-              Quereinstieg auch möglich
+              oder Sie sind hochmotiviert für einen Quereinstieg
             </li>
           </ul>
-          <p>Was wir bieten:</p>
+          <p>Unser Angebot:</p>
           <ul>
             <li>übertarifliche Bezahlung</li>
-            <li>einen Arbeitsplatz in der Konstanzer Innenstadt</li>
+            <li>ein Arbeitsplatz in der Konstanzer Innenstadt</li>
             <li>frühester Arbeitsbeginn 4:00 Uhr</li>
+          </ul>
+        </article>
+<article>
+          <h2>Bäcker*in (d/w/m) in Vollzeit</h2>
+          <p>Wir möchten zum 1.2.2022 oder nach Absprache eine Stelle in der Produktion besetzen.</p>
+          <p>Ihr Profil:</p>
+          <ul>
+            <li>
+              Sie können eine abgeschlossene Berufsausbildung im Lebensmittelhandwerk vorweisen
+              oder Sie sind hochmotiviert und möchten den Quereinstieg wagen
+            </li>
+            <li>
+              Sie verfügen über Deutschkenntnisse auf B2-Level oder höher
+            </li>
+          </ul>
+          <p>Unser Angebot:</p>
+          <ul>
+            <li>übertarifliche Bezahlung</li>
+            <li>ein Arbeitsplatz in der Konstanzer Innenstadt</li>
+            <li>frühester Arbeitsbeginn 6:00 Uhr</li>
+          </ul>
+        </article>
+      <article>
+          <h2>Assistenz (d/w/m) der Geschäftsleitung in 50%-Teilzeit</h2>
+          <p>Wir möchten diese Stelle zum 1.2.2022 oder nach Absprache besetzen.</p>
+          <p>Ihr Profil:</p>
+          <ul>
+            <li>
+              Sie verfügen über eine abgeschlossene Berufsausbildung oder ein
+              Bachelorstudium
+            </li>
+            <li>
+             Sie sind kommunikationsstark und haben ein sicheres Auftreten
+            </li>
+            <li>
+              Sie arbeiten sorgfältig und können sich schnell in neue Aufgabenfelder einarbeiten
+            </li>
+             li>
+              Sie interessieren sich für Bio-Lebensmittel und die Abläufe
+              in unserer Bäckerei
+            </li>
+          </ul>
+          <p>Unser Angebot:</p>
+          <ul>
+            <li>eine 50%-Stelle mit flexiblen Arbeitszeiten</li>
+            <li>die Entlohnung orientiert sich auf Tarifvertrag des öffentlichen Dienstes
+              (je nach persönlichen Voraussetzungen bis E9a TV-ÖD)
+            </li>
+            <li>eine gute Einarbeitung durch Ihre Vorgängerin wird durch gemeinsame
+              Arbeitszeiten im Februar angestrebt
+             </li>
+             <li>spannende Aufgabenfelder zwischen Reiseplanung, Zuarbeit der Buchhaltung
+             und Kommmunikation mit Lieferanten und Kund*innen bis hin zur Konzeption
+             der Außendarstellung unseres Betriebs.
+             </li>
           </ul>
         </article>
         <article>
