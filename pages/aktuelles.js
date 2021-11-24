@@ -27,7 +27,7 @@ export default function Page() {
           <ul>
             <li>übertarifliche Bezahlung</li>
             <li>ein Arbeitsplatz in der Konstanzer Innenstadt</li>
-            <li>frühester Arbeitsbeginn 4:00 Uhr</li>
+            <li>frühester Arbeitsbeginn 4 Uhr im Wechsel mit 6 Uhr</li>
           </ul>
         </article>
          <article>
@@ -47,7 +47,7 @@ export default function Page() {
           <ul>
             <li>übertarifliche Bezahlung</li>
             <li>ein Arbeitsplatz in der Konstanzer Innenstadt</li>
-            <li>frühester Arbeitsbeginn 4:00 Uhr</li>
+            <li>frühester Arbeitsbeginn 4 Uhr im Wechsel mit 6 Uhr</li>
           </ul>
         </article>
         <article>
@@ -72,7 +72,7 @@ export default function Page() {
           </ul>
           <p>Unser Angebot:</p>
           <ul>
-            <li>eine 50%-Stelle mit flexiblen Arbeitszeiten</li>
+            <li>eine 50%-Stelle mit flexiblen Arbeitszeiten, teilweise im Homeoffice</li>
             <li>die Entlohnung orientiert sich am Tarifvertrag des öffentlichen Dienstes
               (je nach persönlichen Voraussetzungen bis E9a TV-ÖD)</li>
             <li>eine gute Einarbeitung durch Ihre Vorgängerin wird durch gemeinsame
