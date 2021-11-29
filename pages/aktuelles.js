@@ -60,9 +60,6 @@ export default function Page() {
               Bachelorstudium
             </li>
             <li>
-             Sie sind kommunikationsstark und haben ein sicheres Auftreten
-            </li>
-            <li>
               Sie arbeiten sorgfältig und können sich schnell in neue Aufgabenfelder einarbeiten
             </li>
              <li>
