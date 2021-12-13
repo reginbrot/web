@@ -9,20 +9,20 @@ export default function Page() {
       <ContentContainer>
         <h1>Brotsorten und Zutaten</h1>
         <h2>Sorten</h2>
-        <Brotsorte title={"HaferRoggenVollkornbrot"}>
+        <Brotsorte title={"HaferRoggenVollkornbrot 100% Vollkorn"}>
           <small>
             <b>Hafer</b>vollkornmahlerzeugnisse* 50%, <b>Roggen</b>vollkornmahlerzeugnisse* 50%,
             Wasser, Salz, <b>Backferment</b>* (<b>Weizen</b>vollkornschrot*, Maismehl*,
             Erbsenmehl*, Blütenhonig*)
           </small>
         </Brotsorte>
-        <Brotsorte title={"RoggenVollkornbrot"}>
+        <Brotsorte title={"RoggenVollkornbrot 100% Vollkorn"}>
           <small>
             <b>Roggen</b>vollkornmahlerzeugnisse* 100%, Wasser, Salz, <b>Backferment</b>*
             (<b>Weizen</b>vollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*), Koriander*
           </small>
         </Brotsorte>
-        <Brotsorte title={"DinkelRoggenWeizenVollkornbrot"}>
+        <Brotsorte title={"DinkelRoggenWeizenVollkornbrot 100% Vollkorn"}>
           <small>
             <b>Dinkelweizen</b>vollkornmahlerzeugnisse* 50%,
             <b>Roggen</b>vollkornmahlerzeugnisse* 25%, <b>Weizen</b>vollkornmahlerzeugnisse*
@@ -30,14 +30,14 @@ export default function Page() {
             (<b>Weizen</b>vollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*)
           </small>
         </Brotsorte>
-        <Brotsorte title={"SonnenblumenkernVollkornbrot"}>
+        <Brotsorte title={"SonnenblumenkernVollkornbrot 100% Vollkorn"}>
           <small>
             <b>Weizen</b>vollkornmahlerzeugnisse*,  <b>Roggen</b>vollkornmahlerzeugnisse*,
             Wasser, Sonnenblumenkerne* 12%, Salz, <b>Backferment</b>*
             (<b>Weizen</b>vollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*)
           </small>
         </Brotsorte>
-        <Brotsorte title={"DinkelPurVollkornbrot"}>
+        <Brotsorte title={"DinkelPurVollkornbrot 100% Vollkorn"}>
           <small>
             <b>Dinkelweizen</b>vollkornmahlerzeugnisse* 100%, Wasser, Salz,
             Goldleinmehl*, Flohsamenschalen*, <b>Backferment</b>* (<b>Weizen</b>vollkornschrot*,
