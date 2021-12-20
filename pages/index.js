@@ -22,10 +22,10 @@ export default function Home() {
       </div>
 
       <ContentContainer classes={"rounded-lg p-8 bg-white"}>
-        <h2>Geöffnet wie immer</h2>
+        <h2>Öffnungszeiten an Weihnachten und Silvester</h2>
   
         <p>
-          Wir haben Montag-Freitag 9-18:30 Uhr und am Samstag 9-15 Uhr geöffnet.
+          Wir haben am 24.12. und am 31.12. jeweils von 9 bis 14 Uhr geöffnet.
         </p>
       </ContentContainer>
     </BaseLayout>
