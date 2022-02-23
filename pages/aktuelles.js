@@ -51,36 +51,6 @@ export default function Page() {
           </ul>
         </article>
         <article>
-          <h2>Assistenz (d/w/m) der Geschäftsleitung in 50%-Teilzeit</h2>
-          <p>Wir möchten diese Stelle zum 1.2.2022 oder nach Absprache besetzen.</p>
-          <p>Ihr Profil:</p>
-          <ul>
-            <li>
-              Sie verfügen über eine abgeschlossene Berufsausbildung oder ein
-              Bachelorstudium
-            </li>
-            <li>
-              Sie arbeiten sorgfältig und können sich schnell in neue Aufgabenfelder einarbeiten
-            </li>
-             <li>
-              Sie interessieren sich für Bio-Lebensmittel und die Abläufe
-              in unserer Bäckerei
-            </li>
-          </ul>
-          <p>Unser Angebot:</p>
-          <ul>
-            <li>eine 50%-Stelle mit flexiblen Arbeitszeiten, teilweise im Homeoffice</li>
-            <li>die Entlohnung orientiert sich am Tarifvertrag des öffentlichen Dienstes
-              (je nach persönlichen Voraussetzungen bis E9a TV-ÖD)</li>
-            <li>eine gute Einarbeitung durch Ihre Vorgängerin wird durch gemeinsame
-              Arbeitszeiten im Februar angestrebt</li>
-             <li>spannende Aufgabenfelder zwischen Reiseplanung, Zuarbeit der Buchhaltung
-             und Kommmunikation mit Lieferanten und Kund*innen bis hin zur Konzeption
-             der Außendarstellung unseres Betriebs.
-             </li>
-          </ul>
-        </article>
-        <article>
           <h2>Das Bürle im Akzent</h2>
           <a href={`${prefix}/akzent_2021-11_schön+gut 14.pdf`}>
             <img
