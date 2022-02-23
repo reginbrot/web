@@ -9,7 +9,7 @@ export default function Page() {
         <h1>Neuigkeiten und Stellenangebote</h1>
         <article>
           <h2>Schichtführung (d/w/m) in der Produktion in Vollzeit</h2>
-          <p>Wir möchten zum 1.3.2022 oder nach Absprache eine Stelle in der Produktion besetzen.</p>
+          <p>Wir möchten zum 1.4.2022 oder nach Absprache eine Stelle in der Produktion besetzen.</p>
           <p>Ihr Profil:</p>
           <ul>
             <li>
@@ -32,7 +32,7 @@ export default function Page() {
         </article>
          <article>
           <h2>Bäcker*in (d/w/m) in Vollzeit</h2>
-          <p>Wir möchten zum 1.2.2022 oder nach Absprache eine Stelle in der Produktion besetzen.</p>
+          <p>Wir möchten zum 1.4.2022 oder nach Absprache eine Stelle in der Produktion besetzen.</p>
           <p>Ihr Profil:</p>
           <ul>
             <li>
