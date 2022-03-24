@@ -118,11 +118,11 @@ export const Footer = () => {
       <div className="my-8 text-2xl liant flex justify-around mx-auto flex-col text-white gap-4">
         <div className="text-bold text-center flex flex-col">
           <div className="flex mx-auto gap-4">
-            <div itemProp="openingHours" content="Mo-Fr 09:00-18:30">
-              Mo-Fr: 9-18:30 Uhr
+            <div itemProp="openingHours" content="Mo-Fr 09:00-19:00">
+              Mo-Fr: 9-19 Uhr
             </div>
-            <div itemProp="openingHours" content="Sa 09:00-15:00">
-              Sa: 9-15 Uhr
+            <div itemProp="openingHours" content="Sa 09:00-16:00">
+              Sa: 9-16 Uhr
             </div>
           </div>
         </div>
