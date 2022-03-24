@@ -22,10 +22,10 @@ export default function Home() {
       </div>
 
       <ContentContainer classes={"rounded-lg p-8 bg-white"}>
-        <h2>Geöffnet wie immer</h2>
+        <h2>Sommeröffnungszeiten</h2>
   
         <p>
-          Wir haben Mo-Fr 9-18:30 Uhr und Sa 9-15 Uhr geöffnet.
+          Ab 28. März haben wir Mo-Fr 9-19 Uhr und Sa 9-16 Uhr geöffnet.
         </p>
       </ContentContainer>
     </BaseLayout>
