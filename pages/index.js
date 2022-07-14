@@ -25,7 +25,7 @@ export default function Home() {
         <h2>Sommeröffnungszeiten</h2>
   
         <p>
-          Ab 28. März haben wir Mo-Fr 9-19 Uhr und Sa 9-16 Uhr geöffnet.
+          Immer Mo-Fr 9-19 Uhr und Sa 9-16 Uhr geöffnet.
         </p>
       </ContentContainer>
     </BaseLayout>
