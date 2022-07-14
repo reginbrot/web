@@ -22,10 +22,10 @@ export default function Home() {
       </div>
 
       <ContentContainer classes={"rounded-lg p-8 bg-white"}>
-        <h2>Sommeröffnungszeiten</h2>
+        <h2>Tempolimit jetzt!</h2>
   
         <p>
-          Immer Mo-Fr 9-19 Uhr und Sa 9-16 Uhr geöffnet.
+          So einfach kann Energiesparen sein.
         </p>
       </ContentContainer>
     </BaseLayout>
