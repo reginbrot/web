@@ -12,36 +12,31 @@ export default function Page() {
         <Brotsorte title={"HaferRoggenVollkornbrot 100% Vollkorn"}>
           <small>
             <b>Hafer</b>vollkornmahlerzeugnisse* 50%, <b>Roggen</b>vollkornmahlerzeugnisse* 50%,
-            Wasser, Salz, <b>Backferment</b>* (<b>Weizen</b>vollkornschrot*, Maismehl*,
-            Erbsenmehl*, Blütenhonig*)
+            Wasser, Salz, hauseigene Starterkulturen
           </small>
         </Brotsorte>
         <Brotsorte title={"RoggenVollkornbrot 100% Vollkorn"}>
           <small>
-            <b>Roggen</b>vollkornmahlerzeugnisse* 100%, Wasser, Salz, <b>Backferment</b>*
-            (<b>Weizen</b>vollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*), Koriander*
+            <b>Roggen</b>vollkornmahlerzeugnisse* 100%, Wasser, Salz, hauseigene Starterkulturen, Koriander*
           </small>
         </Brotsorte>
         <Brotsorte title={"DinkelRoggenWeizenVollkornbrot 100% Vollkorn"}>
           <small>
             <b>Dinkelweizen</b>vollkornmahlerzeugnisse* 50%,
             <b>Roggen</b>vollkornmahlerzeugnisse* 25%, <b>Weizen</b>vollkornmahlerzeugnisse*
-            25%, Wasser, Salz, Goldleinmehl*, Flohsamenschalen*, <b>Backferment</b>*
-            (<b>Weizen</b>vollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*)
+            25%, Wasser, Salz, Goldleinmehl*, Flohsamenschalen*, hauseigene Starterkulturen
           </small>
         </Brotsorte>
         <Brotsorte title={"SonnenblumenkernVollkornbrot 100% Vollkorn"}>
           <small>
             <b>Weizen</b>vollkornmahlerzeugnisse*,  <b>Roggen</b>vollkornmahlerzeugnisse*,
-            Wasser, Sonnenblumenkerne* 12%, Salz, <b>Backferment</b>*
-            (<b>Weizen</b>vollkornschrot*, Maismehl*, Erbsenmehl*, Blütenhonig*)
+            Wasser, Sonnenblumenkerne* 12%, Salz, hauseigene Starterkulturen
           </small>
         </Brotsorte>
         <Brotsorte title={"DinkelPurVollkornbrot 100% Vollkorn"}>
           <small>
             <b>Dinkelweizen</b>vollkornmahlerzeugnisse* 100%, Wasser, Salz,
-            Goldleinmehl*, Flohsamenschalen*, <b>Backferment</b>* (<b>Weizen</b>vollkornschrot*,
-            Maismehl*, Erbsenmehl*, Blütenhonig*)
+            Goldleinmehl*, Flohsamenschalen*, hauseigene Starterkulturen
           </small>
         </Brotsorte>
         <Brotsorte title={"N°5 Bauernbrot"}>
